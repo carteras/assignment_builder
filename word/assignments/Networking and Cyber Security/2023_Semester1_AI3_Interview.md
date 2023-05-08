@@ -62,9 +62,9 @@ can't use that technology at school.]{.mark}
 
 ## Rubric
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 15%" />
+<col style="width: 16%" />
 <col style="width: 39%" />
 <col style="width: 7%" />
 <col style="width: 10%" />
@@ -95,18 +95,16 @@ can't use that technology at school.]{.mark}
 </tr>
 <tr class="even">
 <td>Made a serious attempt at each of the three topics</td>
-<td><p><mark>During your interview, you responded to the three main
-learning areas:</mark></p>
-<p><mark></mark></p>
+<td><p>During your interview, you responded to the three main learning
+areas:</p>
 <ul>
 <li><p>Using CLI commands to find information in a system</p></li>
-<li><p><mark>Programming or CLI commands to solve
-problems</mark></p></li>
-<li><p><mark>Security Tooling</mark></p></li>
+<li><p>Programming or CLI commands to solve problems</p></li>
+<li><p>Security Tooling</p></li>
 </ul></td>
 <td><p>2</p>
-<p><mark>2</mark></p>
-<p><mark>2</mark></p></td>
+<p>2</p>
+<p>2</p></td>
 <td><p>__/2</p>
 <p>__/2</p>
 <p>__/2</p></td>
@@ -116,15 +114,15 @@ problems</mark></p></li>
 <td><p>A x2</p>
 <p>T x1</p></td>
 <td><p>A __/ 12</p>
-<p><mark>T</mark> __/ 6<mark></mark></p></td>
+<p>T __/ 6</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><strong>Analysis, Synthesis &amp; Evaluation</strong></td>
 <td colspan="2"></td>
 <td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><p><strong>A __ / 16<mark></mark></strong></p>
-<p><mark></mark><strong>T__ / 16<mark></mark></strong></p></td>
+<td><p><strong>A __ / 12</strong></p>
+<p><strong>T__ / 6</strong></p></td>
 </tr>
 <tr class="even">
 <td><strong>How do you use commands to find and explore a system to find
@@ -151,7 +149,7 @@ literacy</strong> in this domain.</td>
 <td>__/4</td>
 <td>__/4</td>
 <td>-</td>
-<td>__/ 4<mark></mark></td>
+<td>__/ 4</td>
 </tr>
 <tr class="even">
 <td><strong>What is a technology/tool from Try Hack Me? Describe its
@@ -164,7 +162,7 @@ literacy</strong> in this domain.</td>
 <td>__/4</td>
 <td>__/4</td>
 <td>-</td>
-<td><mark></mark>__/ 4<mark></mark></td>
+<td>__/ 4</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -174,47 +172,35 @@ literacy</strong> in this domain.</td>
 <td><strong>__ / 12</strong></td>
 </tr>
 <tr class="even">
-<td><strong>Readability and submission quality.</strong></td>
-<td><strong>Assessment submission is ordered</strong> and has a definite
-pattern to its construction. <strong>The reader is not confused about
-the content in any given section and can follow the submission
-flow</strong> easily. </td>
+<td><strong>Overall presentation quality</strong></td>
+<td>Overall, the presentation <strong>was well presented</strong>.
+<strong>Ideas were structured</strong> well and <strong>made sense
+within their contexts</strong>. Answers were <strong>direct and to the
+point</strong>.  </td>
 <td>4</td>
 <td>__/4</td>
 <td>__/4</td>
-<td><p>A x1</p>
-<p>T x2</p></td>
-<td><p>A __/ 4<mark></mark></p>
-<p><mark>T</mark> __/ 8</p></td>
+<td><p>A x2</p>
+<p>T x1</p></td>
+<td><p>A __/ 8</p>
+<p>T __/ 4</p></td>
 </tr>
 <tr class="odd">
-<td><strong>Formatting</strong></td>
-<td><strong>Students have</strong> <strong>followed the formatting
-instructions,</strong> including any provided templates and guides
-<strong>or have created their own</strong> legible formatting guide
-<strong>and applied it constantly</strong>.</td>
-<td>2</td>
-<td>__/2</td>
-<td>__/2</td>
-<td>-</td>
-<td>__ / 2</td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><p><strong>A __ / 16<mark></mark></strong></p>
-<p><mark></mark><strong>T__ / 16<mark></mark></strong></p></td>
+<td><p><strong>A __ / 8</strong></p>
+<p><strong>T__ / 4</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td>DAYS LATE ___/7 = ___%</td>
 <td></td>
 <td></td>
 <td colspan="2"><strong>FINAL</strong></td>
-<td><strong>A __/48<br />
-T __/40</strong></td>
+<td><strong>A __/32<br />
+T __/22</strong></td>
 </tr>
 </tbody>
 </table>

@@ -1,70 +1,143 @@
-# Task {#task .unnumbered}
+**Task**
 
-You have applied for a cadetship at ABC Corp and won an interview
-position. ABC Corp is looking for people interested and passionate about
-Networking and Security and has used some of this to learn some
-introductory skills and understand some security topics. 
+This assignment is intended to be done in pairs.
 
-## Instrument of learning
+Some people say you only understand something once you try to teach
+others. This assignment attempts to engage students in a hands-on
+learning experience by having them conceptualise, design, create,
+implement, and then reflect on creating a CTF-style challenge and the
+tutorials required to teach students concepts. 
 
-Businesses conduct interviews (panel or one-on-one) to assess technical
-skills and problem-solving abilities to hire the most qualified
-candidates who can contribute to their business\'s success and growth
-and be the most appropriate fit within their organisation. We use the
-same concept to evaluate your communication, technical, and critical
-thinking abilities. 
+## Conceptualisation
 
-Assessment Guide
+[]{.mark}
 
-\* How do you use commands to find and explore a system to find
-information? 
+You must conceptualise a cybersecurity/programming challenge based on
+your exposure to previous topics or through your research. Examples of
+challenges include programming, system commands, security tools, or
+something you have discovered independently. 
 
-\* Compare and contrast solving a problem that can be solved with Python
-and Linux commands. 
+This stage encourages students to think creatively and apply their
+knowledge novelly. 
 
-\* What is a technology/tool from Try Hack Me? Describe its purpose and
-how to use it. 
+## Research and Design 
 
-## [Try Hack Me rooms (free)]{.mark}
+After selecting a challenge, students will research and design the
+specifics, including the process a learner would undergo to solve it and
+the resources required for construction. 
 
--   []{.mark}[[Tutorial]{.mark}](https://tryhackme.com/room/tutorial)
-    []{.mark}
+This stage involves critical thinking and problem-solving. You must
+anticipate potential obstacles and devise appropriate solutions. 
 
--   [[Intro to Offensives
-    Security](https://tryhackme.com/room/introtooffensivesecurity)]{.mark}
+## Implementation 
 
--   [[Introduction to Offensive
-    Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting)]{.mark}
+Students will bring their design to life by creating the finished
+product, [a markdown
+document](https://developers.google.com/tech-writing/one/markdown#:~:text=Markdown is a lightweight markup,%2C bullets%2C and so on.)
+for CTFd, a Google form for peer review, build scripts for automation
+(if required), and a tutorial (in a recipe/poster format) for others on
+how to solve the challenge. 
 
--   [[Linux
-    Fundamentals](https://tryhackme.com/module/linux-fundamentals)]{.mark}
+This stage showcases your technical expertise and ability to create
+comprehensive, user-friendly resources. The implementation process will
+encourage you to improve your documentation and communication skills. 
 
--   [[OHsint](https://tryhackme.com/room/ohsint)]{.mark}
+## Reflection
 
-NOTE: Be aware, Try Hack Me has a limit of 1 hour per day on the attack
-box. This includes time taken to spin up the sessions or if you just
-wonder off from the computer.
+Lastly, you will write a short reflection on the entire experience
+incorporating feedback from your peers. This reflection is intended to
+enable students to evaluate their process and identify improvement areas
+critically. 
 
-[You can use OpenVPN to connect to the sessions on a personal device
-(not Chromebooks though) but a) I am instructing you to do this because
-I do not want to be responsible for your personal devices and b) we
-can't use that technology at school.]{.mark}
+**Outputs**
+
+ 
+
+You must produce a [markdown
+document](https://developers.google.com/tech-writing/one/markdown#:~:text=Markdown is a lightweight markup,%2C bullets%2C and so on.)
+with your challenge for CTFd. 
+
+You must produce your challenge material, including any build scripts
+and documentation, to allow the material to be deployed. 
+
+Additionally, you must construct two A3 posters (templates provided).
+
+[]{.mark}
+
+Poster 1 must include the following: 
+
+The conceptualisation of your challenge 
+
+-   a brief description of your challenge
+
+```{=html}
+<!-- -->
+```
+-   explanation of the challenges relevant to networking, systems,
+    and/or security
+
+Research and Design
+
+-   Documentation of the challenge, including the intended learning
+    outcomes
+
+```{=html}
+<!-- -->
+```
+-   required material
+
+Reflection
+
+-   a short reflection discussing the following process, including the
+    following points
+
+```{=html}
+<!-- -->
+```
+-   Overall experience
+
+```{=html}
+<!-- -->
+```
+-   challenges faced and how they were overcome
+
+```{=html}
+<!-- -->
+```
+-   areas of improvement
+
+```{=html}
+<!-- -->
+```
+-   the value of collaboration and peer feedback
+
+```{=html}
+<!-- -->
+```
+-   What was learnt, that could be useful in future projects
+
+[]{.mark}
+
+[Poster 2:]{.mark}
+
+[]{.mark}
+
+[You will provide your "recipe" tutorial. This recipe will guide the
+user step by step to solve the problem given.]{.mark}
 
 []{.mark}
 
 []{.mark}
 
-[]{.mark}
+Lastly, you must include a short note documenting: 
 
-## []{.mark}
-
-## Task 1: Evidence Guide 
+-   What percentage of work each member of the group did. 
 
 ## Rubric
 
-<table>
+<table style="width:100%;">
 <colgroup>
-<col style="width: 16%" />
+<col style="width: 15%" />
 <col style="width: 39%" />
 <col style="width: 7%" />
 <col style="width: 10%" />
@@ -94,43 +167,98 @@ can't use that technology at school.]{.mark}
 <td><strong>TOTAL</strong></td>
 </tr>
 <tr class="even">
-<td>Made a serious attempt at each of the three topics</td>
-<td><p>During your interview, you responded to the three main learning
-areas:</p>
-<ul>
-<li><p>Using CLI commands to find information in a system</p></li>
-<li><p>Programming or CLI commands to solve problems</p></li>
-<li><p>Security Tooling</p></li>
-</ul></td>
-<td><p>2</p>
-<p>2</p>
-<p>2</p></td>
-<td><p>__/2</p>
-<p>__/2</p>
-<p>__/2</p></td>
-<td><p>__/2</p>
-<p>__/2</p>
-<p>__/2</p></td>
+<td><p><strong>Poster 1</strong></p>
+<p>(pairs)</p></td>
+<td>You have submitted a <strong>poster that effectively conveys your
+development process</strong> for a cybersecurity challenge.</td>
+<td>2</td>
+<td>__/2</td>
+<td>__/2</td>
 <td><p>A x2</p>
 <p>T x1</p></td>
-<td><p>A __/ 12</p>
-<p>T __/ 6</p></td>
+<td>A __/ 4<br />
+T __/ 2</td>
 </tr>
 <tr class="odd">
+<td><p><strong>Poster 2</strong></p>
+<p>(pairs)</p></td>
+<td>You have submitted a <strong>poster of a comprehensive tutorial that
+guides users</strong> through your cybersecurity challenge.</td>
+<td>2</td>
+<td>__/2</td>
+<td>__/2</td>
+<td><p>A x2</p>
+<p>T x1</p></td>
+<td>A __/ 4<br />
+T __/ 2</td>
+</tr>
+<tr class="even">
+<td><p><strong>Implementation</strong></p>
+<p>(pairs)</p></td>
+<td>You have submitted <strong>evidence to implement your cybersecurity
+challenge</strong>. This submission includes the required technical
+material, a markdown document for CTFd, and any necessary build scripts
+and documentation.</td>
+<td>2</td>
+<td>__/2</td>
+<td>__/2</td>
+<td><p>A x2</p>
+<p>T x1</p></td>
+<td>A __/ 4<br />
+T __/ 2</td>
+</tr>
+<tr class="odd">
+<td><strong>Team work review</strong></td>
+<td>You have submitted evidence of your <strong>team review
+documentation</strong>, including evaluating your team mates.</td>
+<td>2</td>
+<td>__/2</td>
+<td>__/2</td>
+<td><p>A x2</p>
+<p>T x1</p></td>
+<td>A __/ 4<br />
+T __/ 2</td>
+</tr>
+<tr class="even">
 <td></td>
 <td><strong>Analysis, Synthesis &amp; Evaluation</strong></td>
 <td colspan="2"></td>
 <td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><p><strong>A __ / 12</strong></p>
-<p><strong>T__ / 6</strong></p></td>
+<td><p><strong>A _ / 22</strong></p>
+<p><strong>T _ / 8</strong></p></td>
+</tr>
+<tr class="odd">
+<td><strong>Conceptualisation</strong></td>
+<td>You have submitted evidence demonstrating <strong>your ability to
+conceptualise</strong> a cybersecurity challenge effectively. This
+evidence <strong>showcases your understanding</strong> of the subject
+matter, creativity in designing a relevant challenge, and strong
+<strong>critical thinking skills</strong>. By focusing on the
+conceptualisation process, you have laid a solid foundation for the
+research, design, implementation, and reflection stages of your project.
+Your evidence also highlights your <strong>capacity to anticipate
+potential obstacles, devise appropriate solutions, and consider the
+needs of your peers and user</strong>s.</td>
+<td>4</td>
+<td>__/4</td>
+<td>__/4</td>
+<td>-</td>
+<td>__/ 4</td>
 </tr>
 <tr class="even">
-<td><strong>How do you use commands to find and explore a system to find
-information?</strong></td>
-<td>During your interview, <strong>you communicated your understanding
-of various commands</strong> found on the Command Line Interface. This
-communication showed <strong>appropriate evidence of technical
-literacy</strong> in this domain.</td>
+<td><strong>Research and Design</strong></td>
+<td>You have submitted evidence showcasing <strong>your aptitude in the
+research and design processes</strong> for a cybersecurity challenge.
+This evidence highlights your ability to delve into relevant resources,
+gather necessary information, and create a well-structured plan for the
+challenge. By emphasising research and design, you have
+<strong>demonstrated your critical thinking and problem-solving
+skills</strong>, as well as your ability to foresee potential
+difficulties and devise appropriate solutions. Your evidence also
+indicates your proficiency in technical writing and the creation of
+clear, concise documentation. This achievement standard underscores the
+significance of thorough research and design in developing engaging and
+educational cybersecurity challenges.</td>
 <td>4</td>
 <td>__/4</td>
 <td>__/4</td>
@@ -138,13 +266,20 @@ literacy</strong> in this domain.</td>
 <td>__/ 4</td>
 </tr>
 <tr class="odd">
-<td><strong>Compare and contrast solving a problem that can be solved
-with Python and Linux commands.</strong></td>
-<td>During your interview, you communicated your understanding of how
-you could s<strong>olve similar problems in different ways</strong>,
-specifically through <strong>programming and command lines</strong>.
-This communication showed <strong>appropriate evidence of technical
-literacy</strong> in this domain.</td>
+<td><strong>Implementation</strong></td>
+<td>You have submitted evidence that <strong>highlights your competency
+in implementing your cybersecurity challenge</strong>. This evidence
+reflects your <strong>technical expertise, attention to detail, and
+ability to transform your research and design plans into a functional,
+user-friendly challenge</strong>. By emphasising the implementation
+process, you have <strong>demonstrated your capacity to create
+comprehensive resources</strong>, such as a markdown document for CTFd,
+a Google form for peer review, build scripts for automation, and a
+tutorial "recipe" for teaching others. Your evidence also showcases your
+proficiency in documentation and communication, essential skills for a
+successful cybersecurity professional. This achievement standard
+accentuates the importance of effective implementation in developing
+engaging and educational cybersecurity challenges.</td>
 <td>4</td>
 <td>__/4</td>
 <td>__/4</td>
@@ -152,12 +287,19 @@ literacy</strong> in this domain.</td>
 <td>__/ 4</td>
 </tr>
 <tr class="even">
-<td><strong>What is a technology/tool from Try Hack Me? Describe its
-purpose and how to use it.</strong></td>
-<td>During your interview, you communicated your understanding of common
-<strong>Cyber Security Tools</strong> (such as Try Hack Me). This
-communication showed <strong>appropriate evidence of technical
-literacy</strong> in this domain.</td>
+<td><strong>Reflection</strong></td>
+<td>You have submitted evidence that emphasises <strong>your capacity to
+reflect on your work</strong> while creating a cybersecurity challenge.
+This evidence demonstrates your ability to <strong>evaluate your
+project</strong> critically, identify areas of improvement, and
+appreciate the value of collaboration and peer feedback. By focusing on
+reflection, you have shown your commitment to continuous learning and
+professional development in the cybersecurity field. Your evidence also
+<strong>highlights your understanding of different perspectives and your
+willingness to refine your work</strong> based on constructive feedback.
+This achievement standard underlines the importance of thoughtful
+reflection in fostering a deeper understanding of the subject matter and
+enhancing the overall quality of your cybersecurity challenge.</td>
 <td>4</td>
 <td>__/4</td>
 <td>__/4</td>
@@ -169,29 +311,29 @@ literacy</strong> in this domain.</td>
 <td><strong>Submission Guidelines</strong></td>
 <td colspan="2"></td>
 <td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><strong>__ / 12</strong></td>
+<td><strong>__ / 16</strong></td>
 </tr>
 <tr class="even">
-<td><strong>Overall presentation quality</strong></td>
-<td>Overall, the presentation <strong>was well presented</strong>.
-<strong>Ideas were structured</strong> well and <strong>made sense
-within their contexts</strong>. Answers were <strong>direct and to the
-point</strong>.  </td>
+<td><strong>Overall submission quality</strong></td>
+<td><strong>Assessment submission is ordered</strong> and has a definite
+pattern to its construction. <strong>The reader is not confused about
+the content in any given section and can follow the submission
+flow</strong> easily. </td>
 <td>4</td>
-<td>__/4</td>
-<td>__/4</td>
+<td>__/ 4</td>
+<td>__/ 4</td>
 <td><p>A x2</p>
 <p>T x1</p></td>
-<td><p>A __/ 8</p>
-<p>T __/ 4</p></td>
+<td>A __/ 8<br />
+T __/ 4</td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><p><strong>A __ / 8</strong></p>
-<p><strong>T__ / 4</strong></p></td>
+<td>A __/ 8<br />
+T __/ 4</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -199,8 +341,8 @@ point</strong>.  </td>
 <td></td>
 <td></td>
 <td colspan="2"><strong>FINAL</strong></td>
-<td><strong>A __/32<br />
-T __/22</strong></td>
+<td><strong>A __/48<br />
+T __/40</strong></td>
 </tr>
 </tbody>
 </table>

@@ -1,62 +1,31 @@
 # Task {#task .unnumbered}
 
 You have applied for a cadetship at ABC Corp and won an interview
-position. ABC Corp is looking for people interested and passionate about
-Networking and Security and has used some of this to learn some
-introductory skills and understand some security topics. 
+position. You know that ABC Corp is looking for people who are
+interested and passionate about Engineering and have used some of that
+passion/interest to learn some introductory skills and start making some
+cool things. 
 
 ## Instrument of learning
 
 Businesses conduct interviews (panel or one-on-one) to assess technical
 skills and problem-solving abilities to hire the most qualified
-candidates who can contribute to their business\'s success and growth
-and be the most appropriate fit within their organisation. We use the
-same concept to evaluate your communication, technical, and critical
-thinking abilities. 
+candidates to contribute to their business\'s success and growth and be
+the most appropriate fit within their organisation. We use the same
+concept to evaluate your communication, technical, and critical thinking
+abilities. 
 
-Assessment Guide
+### Assessment Guide {#assessment-guide .unnumbered}
 
-\* How do you use commands to find and explore a system to find
-information? 
+\* How do use visual thinking to break up complex problems for design
 
-\* Compare and contrast solving a problem that can be solved with Python
-and Linux commands. 
+\* Creation of visual prototypes to express solutions for lightweight
+specifications
 
-\* What is a technology/tool from Try Hack Me? Describe its purpose and
-how to use it. 
+\* Diagramming of functionality of code design to meet visual
+specifications 
 
-## [Try Hack Me rooms (free)]{.mark}
-
--   []{.mark}[[Tutorial]{.mark}](https://tryhackme.com/room/tutorial)
-    []{.mark}
-
--   [[Intro to Offensives
-    Security](https://tryhackme.com/room/introtooffensivesecurity)]{.mark}
-
--   [[Introduction to Offensive
-    Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting)]{.mark}
-
--   [[Linux
-    Fundamentals](https://tryhackme.com/module/linux-fundamentals)]{.mark}
-
--   [[OHsint](https://tryhackme.com/room/ohsint)]{.mark}
-
-NOTE: Be aware, Try Hack Me has a limit of 1 hour per day on the attack
-box. This includes time taken to spin up the sessions or if you just
-wonder off from the computer.
-
-[You can use OpenVPN to connect to the sessions on a personal device
-(not Chromebooks though) but a) I am instructing you to do this because
-I do not want to be responsible for your personal devices and b) we
-can't use that technology at school.]{.mark}
-
-[]{.mark}
-
-[]{.mark}
-
-[]{.mark}
-
-## []{.mark}
+## 
 
 ## Task 1: Evidence Guide 
 
@@ -64,7 +33,7 @@ can't use that technology at school.]{.mark}
 
 <table>
 <colgroup>
-<col style="width: 16%" />
+<col style="width: 15%" />
 <col style="width: 39%" />
 <col style="width: 7%" />
 <col style="width: 10%" />
@@ -94,13 +63,14 @@ can't use that technology at school.]{.mark}
 <td><strong>TOTAL</strong></td>
 </tr>
 <tr class="even">
-<td>Made a serious attempt at each of the three topics</td>
+<td><strong>Made a serious attempt at each of the three
+topics</strong></td>
 <td><p>During your interview, you responded to the three main learning
 areas:</p>
 <ul>
-<li><p>Using CLI commands to find information in a system</p></li>
-<li><p>Programming or CLI commands to solve problems</p></li>
-<li><p>Security Tooling</p></li>
+<li><p>Visual Thinking Techniques</p></li>
+<li><p>Visual Prototyping</p></li>
+<li><p>Code diagramming</p></li>
 </ul></td>
 <td><p>2</p>
 <p>2</p>
@@ -125,12 +95,10 @@ areas:</p>
 <p><strong>T__ / 6</strong></p></td>
 </tr>
 <tr class="even">
-<td><strong>How do you use commands to find and explore a system to find
-information?</strong></td>
-<td>During your interview, <strong>you communicated your understanding
-of various commands</strong> found on the Command Line Interface. This
-communication showed <strong>appropriate evidence of technical
-literacy</strong> in this domain.</td>
+<td><strong>The use of visual thinking techniques</strong></td>
+<td>During your interview, you communicated you used visual thinking
+techniques to identify problems and communicate ideas showed knowledge
+and understanding.</td>
 <td>4</td>
 <td>__/4</td>
 <td>__/4</td>
@@ -138,13 +106,11 @@ literacy</strong> in this domain.</td>
 <td>__/ 4</td>
 </tr>
 <tr class="odd">
-<td><strong>Compare and contrast solving a problem that can be solved
-with Python and Linux commands.</strong></td>
-<td>During your interview, you communicated your understanding of how
-you could s<strong>olve similar problems in different ways</strong>,
-specifically through <strong>programming and command lines</strong>.
-This communication showed <strong>appropriate evidence of technical
-literacy</strong> in this domain.</td>
+<td><strong>Creation of visual prototypes to express a solution for
+lightweight specifications</strong></td>
+<td>During your interview, you expressed your knowledge and
+understanding of rapid prototyping to create lightweight specifications
+for wicked problem.</td>
 <td>4</td>
 <td>__/4</td>
 <td>__/4</td>
@@ -152,12 +118,11 @@ literacy</strong> in this domain.</td>
 <td>__/ 4</td>
 </tr>
 <tr class="even">
-<td><strong>What is a technology/tool from Try Hack Me? Describe its
-purpose and how to use it.</strong></td>
-<td>During your interview, you communicated your understanding of common
-<strong>Cyber Security Tools</strong> (such as Try Hack Me). This
-communication showed <strong>appropriate evidence of technical
-literacy</strong> in this domain.</td>
+<td><strong>Creation of diagramming to explain the production of code to
+meet visual specifications</strong></td>
+<td>You showed knowledge and understanding of using diagramming to
+explain the production of programming which mees the requirements of a
+visual specification.</td>
 <td>4</td>
 <td>__/4</td>
 <td>__/4</td>
@@ -302,7 +267,7 @@ Formatting for all typed/written assessments should be as follows:
 files. However, in general, most programs follow this overall
 layout.</em></p>
 <p><img
-src="/home/foo/nerdstuff/code/assignment_builder/assignments/Networking and Cyber Security/media/image1.png"
+src="/home/foo/nerdstuff/code/assignment_builder/word/assignments/Engineering Processes &amp; Concepts/media/image1.png"
 style="width:5.29744in;height:4.12185in" /></p>
 <p><a href="https://pep8.org/">PEP 8: The Style Guide for Python
 Code</a></p></td>
@@ -314,7 +279,7 @@ Code</a></p></td>
 files. However, in general most programs follow this broad
 layout.</em></p>
 <p><img
-src="/home/foo/nerdstuff/code/assignment_builder/assignments/Networking and Cyber Security/media/image2.png"
+src="/home/foo/nerdstuff/code/assignment_builder/word/assignments/Engineering Processes &amp; Concepts/media/image2.png"
 style="width:5.10488in;height:3.13585in" /></p>
 <p><em>I accept both K&amp;R and K&amp;R alternative bracing format. As
 long as it is consistent in your file.</em></p>
@@ -329,7 +294,7 @@ Documentation</a></p></td>
 documents. However, in general, most documents follow some variation of
 the following layout:</em></p>
 <p><img
-src="/home/foo/nerdstuff/code/assignment_builder/assignments/Networking and Cyber Security/media/image3.png"
+src="/home/foo/nerdstuff/code/assignment_builder/word/assignments/Engineering Processes &amp; Concepts/media/image3.png"
 style="width:5.29784in;height:3.4225in" /></p>
 <p><a
 href="https://github.com/google/styleguide/blob/gh-pages/docguide/style.md">https://github.com/google/styleguide/blob/gh-pages/docguide/style.md</a></p></td>
@@ -496,6 +461,6 @@ about it was great, and what could be improved.
 Why is this important? Reflective thinkers can go beyond what they are
 taught and can customise their learning to ben
 
-![](/home/foo/nerdstuff/code/assignment_builder/assignments/Networking and Cyber Security/media/image4.png)
+![](/home/foo/nerdstuff/code/assignment_builder/word/assignments/Engineering Processes & Concepts/media/image4.png)
 
 ##  

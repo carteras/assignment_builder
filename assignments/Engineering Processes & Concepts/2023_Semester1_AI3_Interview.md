@@ -1,4 +1,4 @@
-# Task
+# Task {#task .unnumbered}
 
 You have applied for a cadetship at ABC Corp and won an interview
 position. You know that ABC Corp is looking for people who are
@@ -15,7 +15,7 @@ the most appropriate fit within their organisation. We use the same
 concept to evaluate your communication, technical, and critical thinking
 abilities. 
 
-### Assessment Guide
+### Assessment Guide {#assessment-guide .unnumbered}
 
 \* How do use visual thinking to break up complex problems for design
 
@@ -267,7 +267,7 @@ Formatting for all typed/written assessments should be as follows:
 files. However, in general, most programs follow this overall
 layout.</em></p>
 <p><img
-src="D:\github\assignment_builder\assignments\Engineering Processes &amp; Concepts/media/image1.png"
+src="/home/foo/nerdstuff/code/assignment_builder/assignments/Engineering Processes &amp; Concepts/media/image1.png"
 style="width:5.29744in;height:4.12185in" /></p>
 <p><a href="https://pep8.org/">PEP 8: The Style Guide for Python
 Code</a></p></td>
@@ -279,7 +279,7 @@ Code</a></p></td>
 files. However, in general most programs follow this broad
 layout.</em></p>
 <p><img
-src="D:\github\assignment_builder\assignments\Engineering Processes &amp; Concepts/media/image2.png"
+src="/home/foo/nerdstuff/code/assignment_builder/assignments/Engineering Processes &amp; Concepts/media/image2.png"
 style="width:5.10488in;height:3.13585in" /></p>
 <p><em>I accept both K&amp;R and K&amp;R alternative bracing format. As
 long as it is consistent in your file.</em></p>
@@ -294,7 +294,7 @@ Documentation</a></p></td>
 documents. However, in general, most documents follow some variation of
 the following layout:</em></p>
 <p><img
-src="D:\github\assignment_builder\assignments\Engineering Processes &amp; Concepts/media/image3.png"
+src="/home/foo/nerdstuff/code/assignment_builder/assignments/Engineering Processes &amp; Concepts/media/image3.png"
 style="width:5.29784in;height:3.4225in" /></p>
 <p><a
 href="https://github.com/google/styleguide/blob/gh-pages/docguide/style.md">https://github.com/google/styleguide/blob/gh-pages/docguide/style.md</a></p></td>
@@ -461,6 +461,6 @@ about it was great, and what could be improved.
 Why is this important? Reflective thinkers can go beyond what they are
 taught and can customise their learning to ben
 
-![](D:\github\assignment_builder\assignments\Engineering Processes & Concepts/media/image4.png)
+![](/home/foo/nerdstuff/code/assignment_builder/assignments/Engineering Processes & Concepts/media/image4.png)
 
 ##  

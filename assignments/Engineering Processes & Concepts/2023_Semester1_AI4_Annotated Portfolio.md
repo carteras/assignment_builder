@@ -1,70 +1,103 @@
-# Task {#task .unnumbered}
+**Task**
 
-You have applied for a cadetship at ABC Corp and won an interview
-position. ABC Corp is looking for people interested and passionate about
-Networking and Security and has used some of this to learn some
-introductory skills and understand some security topics. 
+You are challenged to design a vehicle that will compete in a timed
+challenge where you must navigate through a line pathway followed by a
+space that has no line but is enclosed by walls. Once activated, you
+should not touch your vehicle again, except for moving it from one state
+area to the next (i.e., lines to spaces). 
 
-## Instrument of learning
+Points are as follows: 
 
-Businesses conduct interviews (panel or one-on-one) to assess technical
-skills and problem-solving abilities to hire the most qualified
-candidates who can contribute to their business\'s success and growth
-and be the most appropriate fit within their organisation. We use the
-same concept to evaluate your communication, technical, and critical
-thinking abilities. 
+Everybody starts with 180 points. 
 
-Assessment Guide
+-   -1 point for every second passed
 
-\* How do you use commands to find and explore a system to find
-information? 
+-   +1 point for each cm travelled 
 
-\* Compare and contrast solving a problem that can be solved with Python
-and Linux commands. 
+-   +10 points for each transition that doesn\'t require physical
+    interaction, but no points will be deducted for manual transitions
 
-\* What is a technology/tool from Try Hack Me? Describe its purpose and
-how to use it. 
+-   -10 points each time a team must manually put their solution back on
+    track
 
-## [Try Hack Me rooms (free)]{.mark}
+The highest score wins. Teams forfeit if they reach 0 points.
 
--   []{.mark}[[Tutorial]{.mark}](https://tryhackme.com/room/tutorial)
-    []{.mark}
+The focus of the challenge is to design a vehicle that can complete the
+following tasks: 
 
--   [[Intro to Offensives
-    Security](https://tryhackme.com/room/introtooffensivesecurity)]{.mark}
+-   is automated
 
--   [[Introduction to Offensive
-    Pentesting](https://tryhackme.com/module/introduction-to-offensive-pentesting)]{.mark}
+-   Will not move until a button has been pressed
 
--   [[Linux
-    Fundamentals](https://tryhackme.com/module/linux-fundamentals)]{.mark}
+-   can follow a line
 
--   [[OHsint](https://tryhackme.com/room/ohsint)]{.mark}
+-   can navigate an enclosed space with no line/path
 
-NOTE: Be aware, Try Hack Me has a limit of 1 hour per day on the attack
-box. This includes time taken to spin up the sessions or if you just
-wonder off from the computer.
+-   can handle the transition from line tracking to space navigation
+    (optional: without direct/hands-on interaction)
 
-[You can use OpenVPN to connect to the sessions on a personal device
-(not Chromebooks though) but a) I am instructing you to do this because
-I do not want to be responsible for your personal devices and b) we
-can't use that technology at school.]{.mark}
+ 
 
-[]{.mark}
+You are limited to the following resources: 
 
-[]{.mark}
+-   x2 motors 
 
-[]{.mark}
+-   x2 wheels 
 
-## []{.mark}
+-   x1 Arduino mega 
 
-## Task 1: Evidence Guide 
+-   x3 distance sensors 
+
+-   x2 sheets of A4 Cardboard
+
+-   x1 meter of masking tape
+
+-   x2 sticks of hot glue
+
+-   x1 button
+
+-   x1 H-bridge controller (tutorial coming)
+
+-   x2 servo motors (tutorial coming)
+
+-   x1 additional sensors for direct-free decision making
+
+Required outputs: 
+
+1\. A poster that documents your :
+
+-   visual thinking to come up with a concept for a vehicle that would
+    complete the challenge, which includes conceptual tools such as
+    sketching, brain mapping, and visual prototyping
+
+2\. A second poster that documents your 
+
+-   lightweight specification, including process diagramming, documents,
+    decision flow, CAD/Design files etc.
+
+```{=html}
+<!-- -->
+```
+-   The implement their design
+
+-   [Resource consumption]{.mark}
+
+```{=html}
+<!-- -->
+```
+-   your review of your design against other solutions
+
+3\. Your implementation files, including videos of your solution meeting
+the different objectives. 
+
+4\. Documentation where you evaluate your team mates and estimate how
+much work out of 100% they did.
 
 ## Rubric
 
-<table>
+<table style="width:100%;">
 <colgroup>
-<col style="width: 16%" />
+<col style="width: 15%" />
 <col style="width: 39%" />
 <col style="width: 7%" />
 <col style="width: 10%" />
@@ -94,43 +127,101 @@ can't use that technology at school.]{.mark}
 <td><strong>TOTAL</strong></td>
 </tr>
 <tr class="even">
-<td>Made a serious attempt at each of the three topics</td>
-<td><p>During your interview, you responded to the three main learning
-areas:</p>
-<ul>
-<li><p>Using CLI commands to find information in a system</p></li>
-<li><p>Programming or CLI commands to solve problems</p></li>
-<li><p>Security Tooling</p></li>
-</ul></td>
-<td><p>2</p>
-<p>2</p>
-<p>2</p></td>
-<td><p>__/2</p>
-<p>__/2</p>
-<p>__/2</p></td>
-<td><p>__/2</p>
-<p>__/2</p>
-<p>__/2</p></td>
+<td><p><strong>Poster 1</strong></p>
+<p>(small group)</p></td>
+<td><p>You have <strong>submitted a poster</strong> which demonstrates
+the conceptualisation process, <strong>your ability to describe and
+visually represent your ideas</strong>, etc. This poster should include
+a clear description, sketches, mind mapping, card sorting and/or other
+forms of visual prototyping.</p>
+<p><mark></mark></p></td>
+<td>2</td>
+<td>__/2</td>
+<td>__/2</td>
 <td><p>A x2</p>
 <p>T x1</p></td>
-<td><p>A __/ 12</p>
-<p>T __/ 6</p></td>
+<td>A __/ 4<br />
+T __/ 2</td>
 </tr>
 <tr class="odd">
+<td><p><strong>Poster 2</strong></p>
+<p>(small group)</p></td>
+<td>You have <strong>submitted a poster</strong> that documents
+<strong>lightweight specification</strong> materials such as process
+diagrams and decision flows, CAD/Formal Designs, examples from
+implementation, resource consumption, and a brief review of the success
+of their solution.</td>
+<td>2</td>
+<td>__/2</td>
+<td>__/2</td>
+<td><p>A x2</p>
+<p>T x1</p></td>
+<td>A __/ 4<br />
+T __/ 2</td>
+</tr>
+<tr class="even">
+<td><p><strong>Implementation files</strong></p>
+<p>(small group)</p></td>
+<td>You have submitted <strong>evidence of your implementation
+files</strong> including code and videos of your working solution. Code
+solutions should be submitted in markdown format as well as INO.</td>
+<td>2</td>
+<td>__/2</td>
+<td>__/2</td>
+<td><p>A x2</p>
+<p>T x1</p></td>
+<td>A __/ 4<br />
+T __/ 2</td>
+</tr>
+<tr class="odd">
+<td><strong>Team work review</strong></td>
+<td>You have submitted evidence of your <strong>team review
+documentation</strong>, including evaluating your team mates.</td>
+<td>2</td>
+<td>__/2</td>
+<td>__/2</td>
+<td><p>A x2</p>
+<p>T x1</p></td>
+<td>A __/ 4<br />
+T __/ 2</td>
+</tr>
+<tr class="even">
 <td></td>
 <td><strong>Analysis, Synthesis &amp; Evaluation</strong></td>
 <td colspan="2"></td>
 <td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><p><strong>A __ / 12</strong></p>
-<p><strong>T__ / 6</strong></p></td>
+<td><p><strong>A _ / 22</strong></p>
+<p><strong>T _ / 8</strong></p></td>
+</tr>
+<tr class="odd">
+<td><strong>Conceptualisation</strong></td>
+<td>Your evidence provided your <strong>clear understanding of the
+conceptualisation process</strong>, including idea generation, problem
+identification, and potential solutions. They should be able to
+<strong>describe the process and its importance</strong> in the
+development of a design solution. This includes the ability to
+<strong>use relevant technology concepts, principles, and data to
+address the identified need, problem, or challenge</strong>. Evidence of
+knowledge and understanding can be <strong>showcased through various
+mediums</strong>, such as written explanations, diagrams, or
+presentations, using appropriate metalanguage and referencing.</td>
+<td>4</td>
+<td>__/4</td>
+<td>__/4</td>
+<td>-</td>
+<td>__/ 4</td>
 </tr>
 <tr class="even">
-<td><strong>How do you use commands to find and explore a system to find
-information?</strong></td>
-<td>During your interview, <strong>you communicated your understanding
-of various commands</strong> found on the Command Line Interface. This
-communication showed <strong>appropriate evidence of technical
-literacy</strong> in this domain.</td>
+<td><strong>Research and Design</strong></td>
+<td>Your evidence demonstrates a <strong>comprehensive understanding of
+the design process</strong>, including decision-making, planning, and
+development stages. They should be able to <strong>describe how the
+design process relates to the creation of effective and appropriate
+solutions</strong>, considering ethical and sustainable applications of
+technology. Evidence should be provided through <strong>written or
+visual documentation,</strong> showcasing the application of technology
+concepts, strategies, and methodologies in the context of the design
+process.</td>
 <td>4</td>
 <td>__/4</td>
 <td>__/4</td>
@@ -138,13 +229,17 @@ literacy</strong> in this domain.</td>
 <td>__/ 4</td>
 </tr>
 <tr class="odd">
-<td><strong>Compare and contrast solving a problem that can be solved
-with Python and Linux commands.</strong></td>
-<td>During your interview, you communicated your understanding of how
-you could s<strong>olve similar problems in different ways</strong>,
-specifically through <strong>programming and command lines</strong>.
-This communication showed <strong>appropriate evidence of technical
-literacy</strong> in this domain.</td>
+<td><strong>Implementation</strong></td>
+<td>Your evidence demonstrates your ability to <strong>effectively
+implement their design solution</strong>, using appropriate techniques
+and approaches. This includes the creation of prototypes, the testing
+and evaluation of solutions, and iterative improvement based on feedback
+and review. Students should <strong>provide evidence of their
+ability</strong> to apply technology concepts and strategies, taking
+into account the impact of context on the implementation. Documentation,
+such as photographs, videos, or written records of the implementation
+process, should be presented to demonstrate the students' proficiency in
+executing their design solutions.</td>
 <td>4</td>
 <td>__/4</td>
 <td>__/4</td>
@@ -152,12 +247,15 @@ literacy</strong> in this domain.</td>
 <td>__/ 4</td>
 </tr>
 <tr class="even">
-<td><strong>What is a technology/tool from Try Hack Me? Describe its
-purpose and how to use it.</strong></td>
-<td>During your interview, you communicated your understanding of common
-<strong>Cyber Security Tools</strong> (such as Try Hack Me). This
-communication showed <strong>appropriate evidence of technical
-literacy</strong> in this domain.</td>
+<td><strong>Reflection</strong></td>
+<td>Your evidence should showcase your capacity to <strong>reflect on
+their own thinking and learning process</strong>, as well as their
+interpersonal skills, including planning, time management, and
+collaboration. Evidence should include an evaluation of their design
+solutions and the development process, <strong>highlighting areas of
+improvement, challenges faced, and lessons learned</strong>. Students
+should also demonstrate the ability to adapt and refine their knowledge
+and understanding based on their reflections.</td>
 <td>4</td>
 <td>__/4</td>
 <td>__/4</td>
@@ -169,29 +267,29 @@ literacy</strong> in this domain.</td>
 <td><strong>Submission Guidelines</strong></td>
 <td colspan="2"></td>
 <td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><strong>__ / 12</strong></td>
+<td><strong>__ / 16</strong></td>
 </tr>
 <tr class="even">
-<td><strong>Overall presentation quality</strong></td>
-<td>Overall, the presentation <strong>was well presented</strong>.
-<strong>Ideas were structured</strong> well and <strong>made sense
-within their contexts</strong>. Answers were <strong>direct and to the
-point</strong>.  </td>
+<td><strong>Overall submission quality</strong></td>
+<td><strong>Assessment submission is ordered</strong> and has a definite
+pattern to its construction. <strong>The reader is not confused about
+the content in any given section and can follow the submission
+flow</strong> easily. </td>
 <td>4</td>
-<td>__/4</td>
-<td>__/4</td>
+<td>__/ 4</td>
+<td>__/ 4</td>
 <td><p>A x2</p>
 <p>T x1</p></td>
-<td><p>A __/ 8</p>
-<p>T __/ 4</p></td>
+<td>A __/ 8<br />
+T __/ 4</td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><p><strong>A __ / 8</strong></p>
-<p><strong>T__ / 4</strong></p></td>
+<td>A __/ 8<br />
+T __/ 4</td>
 </tr>
 <tr class="even">
 <td></td>
@@ -199,8 +297,8 @@ point</strong>.  </td>
 <td></td>
 <td></td>
 <td colspan="2"><strong>FINAL</strong></td>
-<td><strong>A __/32<br />
-T __/22</strong></td>
+<td><strong>A __/48<br />
+T __/40</strong></td>
 </tr>
 </tbody>
 </table>
@@ -302,7 +400,7 @@ Formatting for all typed/written assessments should be as follows:
 files. However, in general, most programs follow this overall
 layout.</em></p>
 <p><img
-src="/home/foo/nerdstuff/code/assignment_builder/assignments/Networking and Cyber Security/media/image1.png"
+src="/home/foo/nerdstuff/code/assignment_builder/assignments/Engineering Processes &amp; Concepts/media/image1.png"
 style="width:5.29744in;height:4.12185in" /></p>
 <p><a href="https://pep8.org/">PEP 8: The Style Guide for Python
 Code</a></p></td>
@@ -314,7 +412,7 @@ Code</a></p></td>
 files. However, in general most programs follow this broad
 layout.</em></p>
 <p><img
-src="/home/foo/nerdstuff/code/assignment_builder/assignments/Networking and Cyber Security/media/image2.png"
+src="/home/foo/nerdstuff/code/assignment_builder/assignments/Engineering Processes &amp; Concepts/media/image2.png"
 style="width:5.10488in;height:3.13585in" /></p>
 <p><em>I accept both K&amp;R and K&amp;R alternative bracing format. As
 long as it is consistent in your file.</em></p>
@@ -329,7 +427,7 @@ Documentation</a></p></td>
 documents. However, in general, most documents follow some variation of
 the following layout:</em></p>
 <p><img
-src="/home/foo/nerdstuff/code/assignment_builder/assignments/Networking and Cyber Security/media/image3.png"
+src="/home/foo/nerdstuff/code/assignment_builder/assignments/Engineering Processes &amp; Concepts/media/image3.png"
 style="width:5.29784in;height:3.4225in" /></p>
 <p><a
 href="https://github.com/google/styleguide/blob/gh-pages/docguide/style.md">https://github.com/google/styleguide/blob/gh-pages/docguide/style.md</a></p></td>
@@ -496,6 +594,6 @@ about it was great, and what could be improved.
 Why is this important? Reflective thinkers can go beyond what they are
 taught and can customise their learning to ben
 
-![](/home/foo/nerdstuff/code/assignment_builder/assignments/Networking and Cyber Security/media/image4.png)
+![](/home/foo/nerdstuff/code/assignment_builder/assignments/Engineering Processes & Concepts/media/image4.png)
 
 ##  
