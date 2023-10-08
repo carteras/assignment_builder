@@ -1,78 +1,251 @@
 # Task {#task .unnumbered}
 
-You are challenged to design a thing. That thing must show your design
-and engineering skills and has the following constraints:
+What is a Technical Cookbook? 
 
--   It should take no longer than 3 hours 40 minutes of class time to
-    product
+A technical cookbook is a collection of practical solutions to common
+problems. It offers a series of \"recipes\" that provide step-by-step
+instructions for solving specific challenges instead of focusing on
+theory or in-depth explanations of technical concepts. 
 
--   It must be a flatpack design that can be cut out a single piece of
-    A4 cardboard.
+Typically, recipes focus on offering straight-to-the-point solutions
+that readers can directly implement. However, because this is an
+academic course, we also need to introduce some focus on evaluation or
+priming learners to use this in their learning. 
 
--   It must be something mechanised and controlled by an arduino.
+A recipe typically covers the following: 
 
--   You must have a concept design for what the end product should look
-    like. These concept designs must be sketched on pencil and paper.
+1. **Specific challenges**: They address specific user cases or
+challenges engineers face in a particular domain or with a special
+technology. 
 
--   You must have boxes and arrow design for the code of an arduino
+2. **Variety of solutions**: Some problems can have multiple solutions,
+and the Cookbook may present more than one way to address a particular
+challenge. 
 
--   Your must have a CAD design that shows how the entire project will
-    come together
+3. **Real-world Examples**: Most recipes are grounded in real-world
+scenarios, making them immediately applicable.
 
--   You must have a diagram from CAD that prints for the Laser Cutter.
+4.** Tool or Framework Specific**: While some cookbooks are
+language-agnostic, many focus on specific programming languages or
+frameworks. For example, you might find a \"Arduino Cookbook\" or a
+\"Fusion360 Cookbook\".
 
--   Your overall output must be sufficient for a third party to build
-    your design
+### Recipe in a Programming Cookbook: {#recipe-in-a-programming-cookbook .unnumbered}
 
--   Your overall design must feel like it is appropriately scaled to
-    reality.
+A \"recipe\" in a programming cookbook is an individual solution or
+method to address a specific problem. Each recipe:
 
-Note you must also submit:
+1.  **Defines the Problem**: It starts with describing the problem or
+    challenge the solution addresses.
 
-A "script" of how you respond to the following questions:
+2.  **Provides a Solution**: The main body of the recipe offers code
+    snippets, steps, or procedures to solve the stated problem.
 
--   When designing a system, how do you present/communicate complex
-    ideas to technical and/or non-technical users?
+3.  **Includes Explanation**: While focusing on the solution, most
+    recipes also briefly explain how and why the solution works, giving
+    the developer some context and understanding.
 
--   Provide an example of how your design provides some level of
-    innovative (to you) or high quality design and how you approached
-    this concept.
+4.  **May Provide Variations**: Some recipes might present solution
+    variations to cater to different scenarios or requirements.
 
-Example of a thing:
+5.  **Often Includes Examples**: To illustrate the application of the
+    solution, many recipes offer example scenarios where the answer can
+    be applied.
 
-Concieve and design a Railway crossing with a boom arm that is
-appropriatly scaled so it looks appropriate in size to a real railway
-crossing with a boomarm.
+Topics: 
 
-![](C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Applied Engineering/media/image5.png){width="6.268055555555556in"
-height="4.178472222222222in"}
+On-shape:
 
-## Instruments of assessments
+-   Sketch tools (geometric lines, constraints, relationships)
 
-At the heart of enegineering is the ability to articulate complex ideas
-to both technical and non-techncial users. In this unit, we use CAD
-tools built up on on basic sketching and paper concepts.  
+-   Making parts with sketches
+
+-   Making multipart from parts 
+
+-   Making an assembly from parts
+
+-   Making a diagram from parts 
+
+-   Creating Joints and Contact parts
+
+-   Animations
+
+Arduino: 
+
+-   Servomotors
+
+-   LORA devices
+
+-   Arduino to Arduino communication 
+
+-   D-Pad controllers
+
+Pitch any other ideas that you might have. 
 
 ### Assessment Guide {#assessment-guide .unnumbered}
 
--   Is your design likely to be built by someone else who can't deviate
-    from the plan?
+-   A recipe for one of the topics from above
 
--   Have you got sketches?
+-   A tutorial \| video that covers the recipe
 
--   Have you thought how you are going make it work?
+-   A short reflection on how the skills can be applied for projects,
+    evaluation-related topics or tools, examples of known synthesis
 
--   Have you got boxes and arrows for code design?
-
--   Have you got a CAD design?
-
--   When you bring it down to a drawing, does it all fit on an A4 page?
-
--   The script
+# Technical Cookbook Project: Scrum Sprints Overview (4 Sprints) {#technical-cookbook-project-scrum-sprints-overview-4-sprints .unnumbered}
 
 ## 
 
-## Task 1: Evidence Guide 
+## Thursday 31^th^ Sprint 1: Conceptualization Research
+
+### Focus: {#focus .unnumbered}
+
+Formulating the idea, assembling teams, and preliminary research.
+
+### Activities: {#activities .unnumbered}
+
+-   Brainstorming session for recipe ideas.
+
+-   The initial pitch of recipe ideas and getting feedback.
+
+-   Researching to ensure the uniqueness of the recipe.
+
+### Deliverable: {#deliverable .unnumbered}
+
+A clear concept of the recipe and preliminary research findings.
+
+## Tuesday 4^th^ Sprint 2: Recipe Design & Scripting
+
+### Focus: {#focus-1 .unnumbered}
+
+Finalising the recipe design and scripting for the tutorial.
+
+### Activities: {#activities-1 .unnumbered}
+
+-   Deciding on tools, platforms, or software needed for the tutorial.
+
+-   Testing and finalising the recipe.
+
+-   Sketching out the recipe layout.
+
+-   Writing a script for the tutorial and designing a storyboard.
+
+-   Assigning roles for production (camera person, presenter, editor,
+    etc.).
+
+### Deliverable: {#deliverable-1 .unnumbered}
+
+A finalised recipe, video storyboard, and a script for the video
+tutorial.
+
+## Tuesday 11^th^ Sprint 3: Recipe Production & Peer Review
+
+### Focus: {#focus-2 .unnumbered}
+
+Initiating peer reviews.
+
+### Activities: {#activities-2 .unnumbered}
+
+-   Setting up and recording the tutorial.
+
+-   Initial editing of the video, incorporating feedback from peers and
+    the Scrum Master.
+
+-   Peer review: Teams swap recipes to test and provide feedback.
+
+### Deliverable: {#deliverable-2 .unnumbered}
+
+A rough cut of the video tutorial and feedback on recipes and videos
+from peers.
+
+## 
+
+## Thursday 14^th^ Sprint 4: Finalization, Reflection & Submission
+
+### Focus: {#focus-3 .unnumbered}
+
+Final edits, reflection on the project, and showcasing the work.
+
+### Activities: {#activities-3 .unnumbered}
+
+-   Implementing feedback to finalise the recipe editing.
+
+-   Incorporating feedback for final adjustments to the recipe.
+
+-   Teams reflect on what they learned, challenges faced, and solutions
+    found.
+
+-   Each team presents their recipe tutorial to the class.
+
+### Deliverable: {#deliverable-3 .unnumbered}
+
+A finalised recipe tutorial, any final recipe adjustments, class
+presentations, and written reflections.
+
+# Assessment Submission Task List {#assessment-submission-task-list .unnumbered}
+
+-    **Conceptualization & Research**
+
+    -    Submit a clear recipe concept document.
+
+    -    Provide a list of team members and assigned roles.
+
+    -    Submit preliminary research findings on the uniqueness of the
+        recipe.
+
+    -    Provide any initial sketches or notes related to the recipe
+        idea.
+
+-    **Recipe Design & recipe Scripting**
+
+    -    Submit the finalised recipe with all necessary instructions,
+        ingredients, and diagrams.
+
+    -    Submit the recipe tutorial storyboard showcasing the flow and
+        key scenes.
+
+    -    Submit the recipe script detailing the spoken content, visual
+        cues, and any additional notes.
+
+-    **recipe Production & Peer Review**
+
+    -    Submit the rough cut of the recipe tutorial.
+
+    -    Provide feedback forms used during the peer review process.
+
+    -    Submit the compiled feedback received from peers on your
+        team\'s recipe and tutorial.
+
+-    **Finalisation, Reflection & Presentation**
+
+    -    Submit the finalised recipe tutorial after all edits.
+
+    -    Submit the finalised recipe, including any adjustments made
+        after feedback.
+
+    -    Provide a written reflection from the team detailing learnings,
+        challenges, and solutions found during the project.
+
+    -    (Optional) If recorded, submit the video or presentation slides
+        of the class presentation.
+
+-    **Reflection Document**
+
+    -    **Analysis & Interpretation**: Reflect on how your preliminary
+        research influenced and refined the initial concept of your
+        recipe. Were there any unexpected findings?
+
+    -    **Application & Problem Solving**: Discuss challenges faced
+        during the recipe scripting and design phase. How did you adjust
+        your approach to ensure effective communication through your
+        recipe tutorial?
+
+    -    **Evaluation & Decision Making**: Reflect on the feedback
+        received during the peer review. How did you prioritise and
+        decide on your recipe and recipe tutorial changes?
+
+    -    **Synthesis & Creation**: Propose potential expansions or
+        reimagination of this project. How would you take your recipe or
+        tutorial to the next level in a follow-up project?
 
 ## Rubric
 
@@ -96,135 +269,178 @@ tools built up on on basic sketching and paper concepts.  
 <th></th>
 <th></th>
 </tr>
-</thead>
-<tbody>
 <tr class="odd">
-<td><strong>CRITERIA</strong></td>
-<td><strong>EXPECTATIONS</strong></td>
-<td><strong>POSS</strong></td>
-<td><strong>STUDENT</strong></td>
-<td><strong>GIVEN</strong></td>
-<td><strong>MULTI</strong></td>
-<td><strong>TOTAL</strong></td>
+<th><strong>CRITERIA</strong></th>
+<th><strong>EXPECTATIONS</strong></th>
+<th><strong>POSS</strong></th>
+<th><strong>STUDENT</strong></th>
+<th><strong>GIVEN</strong></th>
+<th><strong>MULTI</strong></th>
+<th><strong>TOTAL</strong></th>
 </tr>
-<tr class="even">
-<td><strong>Submission of core material</strong></td>
-<td><p>You have submitted a design for a mechatronic thing. At the
-minimum your submission contains</p>
-<ul>
-<li><p>sketches of your intended project</p></li>
-<li><p>programming specifications</p></li>
-<li><p>CAD design of the final product</p></li>
-<li><p>A diagram for cutting</p></li>
-</ul></td>
-<td>2</td>
-<td>__/2</td>
-<td>__/2</td>
-<td><p>A x2</p>
-<p>T x1</p></td>
-<td><p>A __/ 4</p>
-<p>T __/ 2</p></td>
+<tr class="header">
+<th><strong>Evidence of concept and research</strong></th>
+<th>You have submitted snapshot | evidence of your concept and initial
+research material.</th>
+<th>2</th>
+<th>__/2</th>
+<th>__/2</th>
+<th>-</th>
+<th>__ / 2</th>
 </tr>
 <tr class="odd">
-<td><strong>A Script/notes for your interview</strong></td>
-<td>You have submittee your notes/script that you intend to use for your
-interview.</td>
-<td>2</td>
-<td>__/2</td>
-<td>__/2</td>
-<td><p>A x2</p>
-<p>T x1</p></td>
-<td><p>A __/ 4</p>
-<p>T __/ 2</p></td>
+<th><strong>Recipe design and initial scripting</strong></th>
+<th>You have submitted snapshot | evidence of your recipe design and any
+initial scripting for your tutorial</th>
+<th>2</th>
+<th>__/2</th>
+<th>__/2</th>
+<th>-</th>
+<th>__ / 2</th>
 </tr>
-<tr class="even">
-<td><strong>Attendence to Interview</strong></td>
-<td>You attended the interview</td>
-<td>2</td>
-<td>__/2</td>
-<td>__/2</td>
-<td><p>A x2</p>
-<p>T x1</p></td>
-<td><p>A __/ 4</p>
-<p>T __/ 2</p></td>
+<tr class="header">
+<th><strong>The recipe itself</strong></th>
+<th>You have submitted a final recipe</th>
+<th>2</th>
+<th>__/2</th>
+<th>__/2</th>
+<th>-</th>
+<th>__ / 2</th>
 </tr>
 <tr class="odd">
-<td></td>
-<td><strong>Analysis, Synthesis &amp; Evaluation</strong></td>
-<td colspan="2"></td>
-<td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><p><strong>A __ / 12</strong></p>
-<p><strong>T__ / 6</strong></p></td>
+<th><strong>Tutorial submission</strong></th>
+<th>You have submitted a tutorial.</th>
+<th>2</th>
+<th>__/2</th>
+<th>__/2</th>
+<th>-</th>
+<th>__ / 2</th>
 </tr>
-<tr class="even">
-<td><strong>Communicate complex ideas</strong></td>
-<td>Both in your notes and in your interview, you expressed your nuanced
-knowledge and understaning of presenting/communicate complex ideas for
-both technical and non-technical users.</td>
-<td>4</td>
-<td>__/4</td>
-<td>__/4</td>
-<td>-</td>
-<td>__/ 4</td>
-</tr>
-<tr class="odd">
-<td><strong>Innovative/high-quality design</strong></td>
-<td>Both in your notes and in your interview, you highlighted your
-ability to think of, considere, or implement
-novel/innovative/high-quality concepts. You express a nuanced knowledge
-of the quality/innovative nature of your design and how you made
-informed decisions on how to implement them.</td>
-<td>4</td>
-<td>__/4</td>
-<td>__/4</td>
-<td>-</td>
-<td>__/ 4</td>
-</tr>
-<tr class="even">
-<td><strong>Technical Design</strong></td>
-<td>Your deisgn is clearly intended for a third party to build the
-system from beginning to end within the time period.</td>
-<td>4</td>
-<td>__/4</td>
-<td>__/4</td>
-<td>-</td>
-<td>__/ 4</td>
+<tr class="header">
+<th><strong>Evidence of peer review</strong></th>
+<th>You have submitted evidence of reviewing your peers.</th>
+<th><p>2</p>
+<p>2</p>
+<p>2</p></th>
+<th><p>__ / 2</p>
+<p>__ / 2</p>
+<p>__ / 2</p></th>
+<th><p>__ / 2</p>
+<p>__ / 2</p>
+<p>__ / 2</p></th>
+<th>-</th>
+<th><p>__ / 2</p>
+<p>__ / 2</p>
+<p>__ / 2</p></th>
 </tr>
 <tr class="odd">
-<td></td>
-<td><strong>Submission Guidelines</strong></td>
-<td colspan="2"></td>
-<td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><strong>__ / 12</strong></td>
+<th><strong>Reflection document</strong></th>
+<th>You have submitted a reflection document which highlights your
+analysis and interpretation, application and problem solving, evaluation
+and decision making, and synthesis and creation</th>
+<th>2</th>
+<th>__/2</th>
+<th>__/2</th>
+<th>-</th>
+<th>__ / 2</th>
 </tr>
-<tr class="even">
-<td><strong>Overall presentation quality</strong></td>
-<td>Overall, the presentation <strong>was well presented</strong>.
+<tr class="header">
+<th></th>
+<th><strong>Analysis, Synthesis &amp; Evaluation</strong></th>
+<th colspan="2"></th>
+<th colspan="2"><strong>SUBTOTAL</strong></th>
+<th><strong>__ / 16</strong></th>
+</tr>
+<tr class="odd">
+<th><strong>Analysis and interpretation</strong></th>
+<th>Your submission shows evidence of analysis and interpretation. It
+highlights your initial research and how it influenced your recipe. It
+also shows how you refined your initial concept of your recipe or
+unexpected outcomes.</th>
+<th>4</th>
+<th>__/4</th>
+<th>__/4</th>
+<th><p>Ax2</p>
+<p>Tx1</p></th>
+<th><p>A __/ 4</p>
+<p>T __/ 8</p></th>
+</tr>
+<tr class="header">
+<th><strong>Application and problem solving</strong></th>
+<th>Your submission highlights challenges that you encountered along the
+way and how you adjusted to overcome them.</th>
+<th>4</th>
+<th>__/4</th>
+<th>__/4</th>
+<th><p>Ax2</p>
+<p>Tx1</p></th>
+<th><p>A __/ 4</p>
+<p>T __/ 8</p></th>
+</tr>
+<tr class="odd">
+<th><strong>Evaluation and decision making</strong></th>
+<th>Your submission highlights key areas of improvement that were
+identified for your recipe and tutorial. It also addresses which
+feedback you acted upon, what changes you implemented or ignored, and
+why.</th>
+<th>4</th>
+<th>__/4</th>
+<th>__/4</th>
+<th><p>Ax2</p>
+<p>Tx1</p></th>
+<th><p>A __/ 4</p>
+<p>T __/ 8</p></th>
+</tr>
+<tr class="header">
+<th><strong>Synthesis and creation</strong></th>
+<th>Your evidence shows evidence of general reflection, how would you
+remagine or further expand this project in the future.</th>
+<th>4</th>
+<th>__/4</th>
+<th>__/4</th>
+<th><p>Ax2</p>
+<p>Tx1</p></th>
+<th><p>A __/ 4</p>
+<p>T __/ 8</p></th>
+</tr>
+<tr class="odd">
+<th></th>
+<th><strong>Submission Guidelines</strong></th>
+<th colspan="2"></th>
+<th colspan="2"><strong>SUBTOTAL</strong></th>
+<th><p><strong>A __ / 16</strong></p>
+<p><strong>T __ / 32</strong></p></th>
+</tr>
+<tr class="header">
+<th><strong>Overall presentation quality</strong></th>
+<th>Overall, the presentation <strong>was well presented</strong>.
 <strong>Ideas were structured</strong> well and <strong>made sense
 within their contexts</strong>. Answers were <strong>direct and to the
-point</strong>.  </td>
-<td>4</td>
-<td>__/4</td>
-<td>__/4</td>
-<td>-</td>
-<td>__/ 4</td>
+point</strong>.  </th>
+<th>4</th>
+<th>__/4</th>
+<th>__/4</th>
+<th>-</th>
+<th>__/ 4</th>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><strong>__ / 4</strong></td>
+<th></th>
+<th></th>
+<th colspan="2"></th>
+<th colspan="2"><strong>SUBTOTAL</strong></th>
+<th><strong>__ / 4</strong></th>
 </tr>
-<tr class="even">
-<td></td>
-<td>DAYS LATE ___/7 = ___%</td>
-<td></td>
-<td></td>
-<td colspan="2"><strong>FINAL</strong></td>
-<td><strong>A __/28<br />
-T __/22</strong></td>
+<tr class="header">
+<th></th>
+<th>DAYS LATE ___/7 = ___%</th>
+<th></th>
+<th></th>
+<th colspan="2"><strong>FINAL</strong></th>
+<th><strong>A __/36<br />
+T __/52</strong></th>
 </tr>
+</thead>
+<tbody>
 </tbody>
 </table>
 

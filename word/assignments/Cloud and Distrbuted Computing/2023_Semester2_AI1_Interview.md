@@ -22,7 +22,7 @@ The office also has the following physical requirements:
 -   Management and sales work in one large office space.
 
 -   Analysts, User Experience, and Developers work in another large
-    > office. 
+    office. 
 
 -   System Administrators work in a smaller office. 
 
@@ -37,25 +37,24 @@ The office also has the following physical requirements:
         -   development - which has a web service and FTP
 
         -   production - which also has a web service and FTP
-            > (production is a mirror of the live service)
+            (production is a mirror of the live service)
 
 The client has the following requirements, if possible: 
 
 -   For security reasons:
 
     -   Management and sales should only be able to access email, the
-        > business server, and the external internet. They should not be
-        > able to access any other part of the business. They get their
-        > IP allocated by DHCP. Their devices are laptops and mobile
-        > phones. 
+        business server, and the external internet. They should not be
+        able to access any other part of the business. They get their IP
+        allocated by DHCP. Their devices are laptops and mobile phones. 
 
     -   Analysts, user experience, and software can access email,
-        > development servers, and the internet. They should not be able
-        > to access any other part of the system. They get their DHCP
-        > allocated by IP. Their devices are laptops.
+        development servers, and the internet. They should not be able
+        to access any other part of the system. They get their DHCP
+        allocated by IP. Their devices are laptops.
 
     -   System Admins should be able to access the entire internet.
-        > Their devices are PCs. 
+        Their devices are PCs. 
 
 -   The business has the following IP address range 10.13.37.0/24
 
@@ -71,12 +70,12 @@ network solutions that meet your client\'s needs. 
 -   NOTE: The \"internet\" can be a final router. 
 
 -   Your network environment must include \"boxed areas\" which have the
-    > details for that part of the network (IP range, gateway, 
+    details for that part of the network (IP range, gateway, 
 
 -   Each part of the network is isolated from each other appropriately.
 
 -   You should choose the most appropriate solutions for your client's
-    > needs.
+    needs.
 
 ## 
 
@@ -336,7 +335,7 @@ Formatting for all typed/written assessments should be as follows:
 files. However, in general, most programs follow this overall
 layout.</em></p>
 <p><img
-src="/home/foo/nerdstuff/code/assignment_builder/word/assignments/Cloud and Distrbuted Computing/media/image1.png"
+src="C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Cloud and Distrbuted Computing/media/image1.png"
 style="width:5.29744in;height:4.12185in" /></p>
 <p><a href="https://pep8.org/">PEP 8: The Style Guide for Python
 Code</a></p></td>
@@ -348,7 +347,7 @@ Code</a></p></td>
 files. However, in general most programs follow this broad
 layout.</em></p>
 <p><img
-src="/home/foo/nerdstuff/code/assignment_builder/word/assignments/Cloud and Distrbuted Computing/media/image2.png"
+src="C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Cloud and Distrbuted Computing/media/image2.png"
 style="width:5.10488in;height:3.13585in" /></p>
 <p><em>I accept both K&amp;R and K&amp;R alternative bracing format. As
 long as it is consistent in your file.</em></p>
@@ -363,7 +362,7 @@ Documentation</a></p></td>
 documents. However, in general, most documents follow some variation of
 the following layout:</em></p>
 <p><img
-src="/home/foo/nerdstuff/code/assignment_builder/word/assignments/Cloud and Distrbuted Computing/media/image3.png"
+src="C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Cloud and Distrbuted Computing/media/image3.png"
 style="width:5.29784in;height:3.4225in" /></p>
 <p><a
 href="https://github.com/google/styleguide/blob/gh-pages/docguide/style.md">https://github.com/google/styleguide/blob/gh-pages/docguide/style.md</a></p></td>
@@ -530,6 +529,6 @@ about it was great, and what could be improved.
 Why is this important? Reflective thinkers can go beyond what they are
 taught and can customise their learning to ben
 
-![](/home/foo/nerdstuff/code/assignment_builder/word/assignments/Cloud and Distrbuted Computing/media/image4.png)
+![](C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Cloud and Distrbuted Computing/media/image4.png)
 
 ##  

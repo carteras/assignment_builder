@@ -1,74 +1,20 @@
 # Task {#task .unnumbered}
 
-You are challenged to design a thing. That thing must show your design
-and engineering skills and has the following constraints:
+## This is a solo practical exam.
 
--   It should take no longer than 3 hours 40 minutes of class time to
-    product
+## 
 
--   It must be a flatpack design that can be cut out a single piece of
-    A4 cardboard.
+## Time limit: 90 minutes 
 
--   It must be something mechanised and controlled by an arduino.
+## 
 
--   You must have a concept design for what the end product should look
-    like. These concept designs must be sketched on pencil and paper.
+## Download the exam from google classrooms (provided in class)
 
--   You must have boxes and arrow design for the code of an arduino
+## 
 
--   Your must have a CAD design that shows how the entire project will
-    come together
+## 
 
--   You must have a diagram from CAD that prints for the Laser Cutter.
-
--   Your overall output must be sufficient for a third party to build
-    your design
-
--   Your overall design must feel like it is appropriately scaled to
-    reality.
-
-Note you must also submit:
-
-A "script" of how you respond to the following questions:
-
--   When designing a system, how do you present/communicate complex
-    ideas to technical and/or non-technical users?
-
--   Provide an example of how your design provides some level of
-    innovative (to you) or high quality design and how you approached
-    this concept.
-
-Example of a thing:
-
-Concieve and design a Railway crossing with a boom arm that is
-appropriatly scaled so it looks appropriate in size to a real railway
-crossing with a boomarm.
-
-![](C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Applied Engineering/media/image5.png){width="6.268055555555556in"
-height="4.178472222222222in"}
-
-## Instruments of assessments
-
-At the heart of enegineering is the ability to articulate complex ideas
-to both technical and non-techncial users. In this unit, we use CAD
-tools built up on on basic sketching and paper concepts.  
-
-### Assessment Guide {#assessment-guide .unnumbered}
-
--   Is your design likely to be built by someone else who can't deviate
-    from the plan?
-
--   Have you got sketches?
-
--   Have you thought how you are going make it work?
-
--   Have you got boxes and arrows for code design?
-
--   Have you got a CAD design?
-
--   When you bring it down to a drawing, does it all fit on an A4 page?
-
--   The script
+###  {#section-4 .unnumbered}
 
 ## 
 
@@ -108,113 +54,158 @@ tools built up on on basic sketching and paper concepts.  
 <td><strong>TOTAL</strong></td>
 </tr>
 <tr class="even">
-<td><strong>Submission of core material</strong></td>
-<td><p>You have submitted a design for a mechatronic thing. At the
-minimum your submission contains</p>
-<ul>
-<li><p>sketches of your intended project</p></li>
-<li><p>programming specifications</p></li>
-<li><p>CAD design of the final product</p></li>
-<li><p>A diagram for cutting</p></li>
-</ul></td>
+<td><strong>Q1.1 1-1 network</strong></td>
+<td>You have submitted evidence of your knowledge to connect two
+computers together and provide static IP addresses suitable for
+automated testing.</td>
 <td>2</td>
-<td>__/2</td>
-<td>__/2</td>
-<td><p>A x2</p>
-<p>T x1</p></td>
-<td><p>A __/ 4</p>
-<p>T __/ 2</p></td>
+<td>-</td>
+<td>__ / 2</td>
+<td>--</td>
+<td><strong>__ / 2</strong></td>
 </tr>
 <tr class="odd">
-<td><strong>A Script/notes for your interview</strong></td>
-<td>You have submittee your notes/script that you intend to use for your
-interview.</td>
+<td><strong>Q1.2 Simple switch network</strong></td>
+<td>You have submitted evidence of your knowledge of how to provide two
+computers static IP addresses and utalise a switch with given ports
+suitable for automated testing</td>
 <td>2</td>
-<td>__/2</td>
-<td>__/2</td>
-<td><p>A x2</p>
-<p>T x1</p></td>
-<td><p>A __/ 4</p>
-<p>T __/ 2</p></td>
+<td>-</td>
+<td>__ / 2</td>
+<td>--</td>
+<td><strong>__ / 2</strong></td>
 </tr>
 <tr class="even">
-<td><strong>Attendence to Interview</strong></td>
-<td>You attended the interview</td>
+<td><strong>Q1.3 DHCP</strong></td>
+<td>You have submitted evidence of configuring a simple network for DHCP
+for autmated testing.</td>
 <td>2</td>
-<td>__/2</td>
-<td>__/2</td>
+<td>-</td>
+<td>__ / 2</td>
 <td><p>A x2</p>
-<p>T x1</p></td>
-<td><p>A __/ 4</p>
-<p>T __/ 2</p></td>
+<p>Tx1</p></td>
+<td><strong>A __ / 4<br />
+T __ / 2</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Q1.4 DNS</strong></td>
+<td>You have submitted evidence of configuring a simple network for DNS
+for autmated testing.</td>
+<td>2</td>
+<td>-</td>
+<td>__ / 2</td>
+<td><p>A x2</p>
+<p>Tx1</p></td>
+<td><strong>A __ / 4<br />
+T __ / 2</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Q1.5 Email</strong></td>
+<td>You have submitted evidence of configuring SMTP/POP3 email for
+autmated testing.</td>
+<td>2</td>
+<td>-</td>
+<td>__ / 2</td>
+<td><p>A x2</p>
+<p>Tx1</p></td>
+<td><strong>A __ / 4<br />
+T __ / 2</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Q1.6 FTP Services</strong></td>
+<td>You have submitted evidence of configuring FTP for a simple network
+for autmated testing.</td>
+<td>2</td>
+<td>-</td>
+<td>__ / 2</td>
+<td><p>A x2</p>
+<p>Tx1</p></td>
+<td><strong>A __ / 4<br />
+T __ / 2</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Q1.7 VLANS</strong></td>
+<td>You have submitted evidence of configuring VLANs on a simple network
+for autmated testing.</td>
+<td>2</td>
+<td>-</td>
+<td>__ / 2</td>
+<td><p>A x2</p>
+<p>Tx1</p></td>
+<td><strong>A __ / 4<br />
+T __ / 2</strong></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><strong>Analysis, Synthesis &amp; Evaluation</strong></td>
 <td colspan="2"></td>
 <td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><p><strong>A __ / 12</strong></p>
-<p><strong>T__ / 6</strong></p></td>
+<td><p><strong>A __ / 24</strong></p>
+<p><strong>T__ / 14</strong></p></td>
 </tr>
 <tr class="even">
-<td><strong>Communicate complex ideas</strong></td>
-<td>Both in your notes and in your interview, you expressed your nuanced
-knowledge and understaning of presenting/communicate complex ideas for
-both technical and non-technical users.</td>
+<td><strong>Q2.1 Routers</strong></td>
+<td>You have submitted evidence of confguring the bridge between two
+routed networks that provides for an insight or command of mastery for
+autmated testing.</td>
 <td>4</td>
-<td>__/4</td>
-<td>__/4</td>
 <td>-</td>
-<td>__/ 4</td>
+<td>__ / 4</td>
+<td>--</td>
+<td><strong>__ / 4</strong></td>
 </tr>
 <tr class="odd">
-<td><strong>Innovative/high-quality design</strong></td>
-<td>Both in your notes and in your interview, you highlighted your
-ability to think of, considere, or implement
-novel/innovative/high-quality concepts. You express a nuanced knowledge
-of the quality/innovative nature of your design and how you made
-informed decisions on how to implement them.</td>
+<td><strong>Q2.2 Two networks one router</strong></td>
+<td>You have submitted evidence of two routed networks that provides for
+an insight or command of mastery for autmated testing.</td>
 <td>4</td>
-<td>__/4</td>
-<td>__/4</td>
 <td>-</td>
-<td>__/ 4</td>
+<td>__ / 4</td>
+<td>--</td>
+<td><strong>__ / 4</strong></td>
 </tr>
 <tr class="even">
-<td><strong>Technical Design</strong></td>
-<td>Your deisgn is clearly intended for a third party to build the
-system from beginning to end within the time period.</td>
+<td><strong>Q2.3 Routers and DHCP</strong></td>
+<td>You have submitted evidence of confguring multple routed networks
+for DHCP that provides for an insight or command of mastery for autmated
+testing.</td>
 <td>4</td>
-<td>__/4</td>
-<td>__/4</td>
 <td>-</td>
-<td>__/ 4</td>
+<td>__ / 4</td>
+<td>--</td>
+<td><strong>__ / 4</strong></td>
+</tr>
+<tr class="odd">
+<td><strong>Q3.1 Fix Chad’s network</strong></td>
+<td>You have submitted evidence of that provides for an insight or
+command of mastery for autmated testing.</td>
+<td>4</td>
+<td>-</td>
+<td>__ / 4</td>
+<td><p>A x1</p>
+<p>Tx2</p></td>
+<td><strong>A __ / 4<br />
+T __ / 8</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Q3.2 VLAN router DHCP</strong></td>
+<td>You have submitted evidence of XXXX that provides for an insight or
+command of mastery for autmated testing.</td>
+<td>4</td>
+<td>-</td>
+<td>__ / 4</td>
+<td><p>A x1</p>
+<p>Tx2</p></td>
+<td><strong>A __ / 4<br />
+T __ / 8</strong></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><strong>Submission Guidelines</strong></td>
 <td colspan="2"></td>
 <td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><strong>__ / 12</strong></td>
-</tr>
-<tr class="even">
-<td><strong>Overall presentation quality</strong></td>
-<td>Overall, the presentation <strong>was well presented</strong>.
-<strong>Ideas were structured</strong> well and <strong>made sense
-within their contexts</strong>. Answers were <strong>direct and to the
-point</strong>.  </td>
-<td>4</td>
-<td>__/4</td>
-<td>__/4</td>
-<td>-</td>
-<td>__/ 4</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"><strong>SUBTOTAL</strong></td>
-<td><strong>__ / 4</strong></td>
+<td><strong>A __/ 20<br />
+T __/ 28</strong></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -222,8 +213,8 @@ point</strong>.  </td>
 <td></td>
 <td></td>
 <td colspan="2"><strong>FINAL</strong></td>
-<td><strong>A __/28<br />
-T __/22</strong></td>
+<td><strong>A __/ 44<br />
+T __/ 42</strong></td>
 </tr>
 </tbody>
 </table>
@@ -325,7 +316,7 @@ Formatting for all typed/written assessments should be as follows:
 files. However, in general, most programs follow this overall
 layout.</em></p>
 <p><img
-src="C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Applied Engineering/media/image1.png"
+src="C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Cloud and Distrbuted Computing/media/image1.png"
 style="width:5.29744in;height:4.12185in" /></p>
 <p><a href="https://pep8.org/">PEP 8: The Style Guide for Python
 Code</a></p></td>
@@ -337,7 +328,7 @@ Code</a></p></td>
 files. However, in general most programs follow this broad
 layout.</em></p>
 <p><img
-src="C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Applied Engineering/media/image2.png"
+src="C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Cloud and Distrbuted Computing/media/image2.png"
 style="width:5.10488in;height:3.13585in" /></p>
 <p><em>I accept both K&amp;R and K&amp;R alternative bracing format. As
 long as it is consistent in your file.</em></p>
@@ -352,7 +343,7 @@ Documentation</a></p></td>
 documents. However, in general, most documents follow some variation of
 the following layout:</em></p>
 <p><img
-src="C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Applied Engineering/media/image3.png"
+src="C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Cloud and Distrbuted Computing/media/image3.png"
 style="width:5.29784in;height:3.4225in" /></p>
 <p><a
 href="https://github.com/google/styleguide/blob/gh-pages/docguide/style.md">https://github.com/google/styleguide/blob/gh-pages/docguide/style.md</a></p></td>
@@ -519,6 +510,6 @@ about it was great, and what could be improved.
 Why is this important? Reflective thinkers can go beyond what they are
 taught and can customise their learning to ben
 
-![](C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Applied Engineering/media/image4.png)
+![](C:\Users\furio\nerdstuff\assignment_builder\word\assignments\Cloud and Distrbuted Computing/media/image4.png)
 
 ##  
